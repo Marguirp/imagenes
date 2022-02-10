@@ -1,6 +1,6 @@
 hola hola hola
 
-Capitulo 1: interesante
-Capitulo 2: más interesante
-Capitulo 3: Tremendamente interesante
+Capitulo 1: interesante la forma en que se presentan los problemas
+Capitulo 2: más interesante la forma en que aparecen las soluciones
+Capitulo 3: Tremendamente interesante la forma en que deseamos que no vuelvan a aparecer.
 Fin
